@@ -10,8 +10,8 @@
 The objective is to create a Heruflorr website that will enable customers to identify and view the types of ornamental plants that are suitable for rooms and offices.
 
 **👩🏻‍💻Technologies👨🏻‍💻**  
-Programming Language: PHP,JavaScript 
-Framework: Laravel & React  
-Database: SQL   
+- Programming Language: PHP,JavaScript  
+- Framework: Laravel & React  
+- Database: SQL   
 
 Start : 18 October 2024
