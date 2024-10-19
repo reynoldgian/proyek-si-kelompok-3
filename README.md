@@ -1,4 +1,4 @@
-[**Project Name CTH : IMPLEMENTASI WEBSITE TOKO TANAMAN HIAS**]
+[**IMPLEMENTASI WEBSITE TOKO TANAMAN HIAS**]
 
 **Team BERAPA Members and Roles**
 [REYNOLD GIAN] - Project Manager  
