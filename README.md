@@ -1,6 +1,6 @@
 **IMPLEMENTASI WEBSITE TOKO TANAMAN HIAS**
 
-**Team BERAPA Members and Roles**
+**Team 3 Members and Roles**  
 REYNOLD GIAN - Project Manager  
 BRYAN AMMAR - System Analyst  
 M RAYHAN - UI/UX Designer  
