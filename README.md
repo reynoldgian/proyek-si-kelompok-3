@@ -16,4 +16,4 @@ The objective is to create a Heruflorr website that will enable customers to ide
 - Framework: Laravel & React  
 - Database: SQL   
 
-Start : 18 October 2024
+Start : 11 October 2024
